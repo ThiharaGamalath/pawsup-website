@@ -40,7 +40,7 @@ Clone the repository to your local machine using the following command:
 - **Experienced Staff**: Our team of pet care professionals is passionate and experienced in looking after a variety of pets.  
 - **Safety First**: We ensure a secure environment for all pets under our care.  
 - **Personalized Care**: Every pet is unique, and we tailor our services to meet their specific needs.  
-- **Convenient Location**: Located in [Your City], we’re easily accessible for pet owners in the area.  
+- **Convenient Location**: Located in Hirana, we’re easily accessible for pet owners in the area.  
 
 ## Our Promise
 
