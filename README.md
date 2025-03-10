@@ -9,6 +9,18 @@ Welcome to **PawsUp**, a comprehensive pet care platform dedicated to ensuring t
 - **Exercise & Play**: Engaging activities and exercises to keep your pets active and fit.
 - **Grooming & Hygiene**: Grooming services that ensure your pet is clean, fresh, and healthy.
 
+## Services
+
+At **PawsUp**, we offer a wide range of services to keep your pets healthy, happy, and well cared for:
+
+- **Grooming**  
+- **Pet Boarding**  
+- **Daycare**  
+- **Walking Services**  
+- **Wellness and Medical Care (with Vet Partnerships)**  
+- **Training and Behavior Services**  
+- **Pet Transportation**
+
 ## 🚀 Getting Started
 
 To get started with the **PawsUp** project locally, follow these steps:
@@ -20,5 +32,35 @@ Make sure you have **Node.js** and **npm** installed on your system. If not, dow
 
 Clone the repository to your local machine using the following command:
 
+
+
+
+## Why Choose Us?
+
+- **Experienced Staff**: Our team of pet care professionals is passionate and experienced in looking after a variety of pets.  
+- **Safety First**: We ensure a secure environment for all pets under our care.  
+- **Personalized Care**: Every pet is unique, and we tailor our services to meet their specific needs.  
+- **Convenient Location**: Located in [Your City], we’re easily accessible for pet owners in the area.  
+
+## Our Promise
+
+At **PawsUp**, we promise to treat your pets with the love, respect, and attention they deserve. Whether it's a grooming session or an extended stay, we ensure that your pet feels at home and gets the best possible care.
+
+## Contact Us
+
+For more information or to book a service, please contact us at:
+
+- **Phone**: 0738039489  
+- **Email**: pawsup@gmail.com 
+
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ```bash
-git clone https://github.com/your-username/pawsup-website.git
+git clone https://github.com/ThiharaGamalath/pawsup-website.git
+
